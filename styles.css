@@ -28,7 +28,7 @@ header nav ul li a {
     text-decoration: none;
 }
 
-.section {
+section {
     padding: 2rem;
     margin: 1rem auto;
     max-width: 800px;
@@ -36,7 +36,7 @@ header nav ul li a {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.section h2 {
+section h2 {
     text-align: center;
     color: #333;
 }
